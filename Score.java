@@ -7,10 +7,11 @@ public class Score {
         if (points < 0) {
             points = 0; // prevent negative score
         }
-        return points;
+        return points; //smingus
     }
 
     public int getPoints() {
         return points;
     }
 }
+
